@@ -20,7 +20,7 @@ class Calculator:
             'log', 'sqrt', '=','sqr','pow','pi' ,'!','History'
         ]
         
-        self.history_file = 'history.txt'  # Name of the history text file
+        self.history_file = 'history.txt' 
         
         self.create_buttons()
         
